@@ -1,4 +1,4 @@
-FROM python:3.6.5
+FROM python:latest
 
 MAINTAINER chenliujin <liujin.chen@qq.com>
 
