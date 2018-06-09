@@ -4,5 +4,5 @@ MAINTAINER chenliujin <liujin.chen@qq.com>
 
 RUN pip install flask 
 RUN pip install flask_restful
-RUN pip install flask-request-params
+RUN pip install requests 
 RUN pip install pymysql 
