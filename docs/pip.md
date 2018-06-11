@@ -1,5 +1,6 @@
 
+pip list
 
 pip install
 
-pip show
+pip show 
