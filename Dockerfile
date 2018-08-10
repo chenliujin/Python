@@ -11,6 +11,7 @@ RUN apt-get install -y cron
 
 RUN systemctl enable cron
 
+RUN pip install --upgrade pip
 RUN pip install flask 
 RUN pip install flask_restful
 RUN pip install requests 
