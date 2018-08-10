@@ -18,5 +18,6 @@ RUN pip install pymysql
 RUN pip install pyEmail
 RUN pip install paho-mqtt
 RUN pip install redis 
+RUN pip install pyyaml
 
 CMD ["/bin/systemd"]
