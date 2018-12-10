@@ -1,4 +1,4 @@
 ```
 # yum install epel-release
-# yum install python36 python34 python34-pip
+# yum install python34 python34-pip
 ```
