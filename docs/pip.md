@@ -4,4 +4,12 @@ pip list
 
 pip install
 
-pip show 
+pip show
+
+
+# 升级
+
+```
+pip install --upgrade pip
+pip3 install --upgrade pip
+```
