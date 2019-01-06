@@ -6,12 +6,24 @@
   - 读取 Execl 文件
 * matplotlib
 * SciPy
+* PyTorch
+* Keras
+* Apache MXNet
+* Theano
+* Bokeh
+* XGBoost
+* Gensim
+* Caffe
 
 ---
 
 # 机器学习
-* scikit-learn
+* TensorFlow
+* Scikit-learn
 
 ---
 
 * pyspark
+
+# 爬虫
+* Scrapy
